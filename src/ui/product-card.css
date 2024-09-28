@@ -1,0 +1,16 @@
+.product-card {
+	font-family: 'Montserrat', sans-serif;
+	max-width: 500px;
+}
+.product-card h2 {
+	font-family: 'Fraunces', serif;
+}
+.product-card picture img {
+	object-fit: cover;
+}
+
+@media screen and (width>375px) {
+	.product-card picture {
+		width: 150%;
+	}
+}
