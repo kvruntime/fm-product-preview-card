@@ -1,6 +1,7 @@
 .product-card {
 	font-family: 'Montserrat', sans-serif;
 	max-width: 500px;
+	margin: 10px;
 }
 .product-card h2 {
 	font-family: 'Fraunces', serif;
